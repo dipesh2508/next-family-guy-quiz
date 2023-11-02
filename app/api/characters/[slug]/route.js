@@ -9,7 +9,7 @@
  */
 
 import characters from '@/data/characters.json'
-import quotes from '@/data/qoutes.json'
+import quotes from '@/data/quotes.json'
 import { NextResponse } from 'next/server'
 
 export async function GET(req, { params }) {
